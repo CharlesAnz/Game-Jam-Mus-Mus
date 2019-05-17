@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{6C27DC9E-FDEE-212D-FD66-6A4F8ED7B765}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AIRatController.cs">
+    <Files>
+      <File FileName="../GitHub/Expand-Liberatus/Liberatus/Assets/Scripts/PlayerController.cs" Line="151" Column="19" />
+      <File FileName="Assets/Scripts/RatController.cs" Line="65" Column="15" />
+      <File FileName="Assets/Scripts/AIRatController.cs" Line="60" Column="37" />
+      <File FileName="Assets/AI and elev/AI_behaviour.cs" Line="25" Column="17" />
+      <File FileName="Assets/AI and elev/Lift.cs" Line="26" Column="25" />
+      <File FileName="Assets/Game Jam Files/traps/MouseTrap.cs" Line="15" Column="41" />
+      <File FileName="Assets/Scripts/exit.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/cameraControl.cs" Line="6" Column="2" />
+      <File FileName="Assets/AI and elev/FlashLightTrigger.cs" Line="27" Column="13" />
+      <File FileName="Assets/audio.cs" Line="14" Column="6" />
+      <File FileName="Assets/LoadSceneOnClick.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
